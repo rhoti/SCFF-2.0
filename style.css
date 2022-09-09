@@ -4,6 +4,10 @@ body{
     overflow-x: hidden;
 }
 
+@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,500,700");
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800");
+
 @media screen and (max-width: 500px){
     body{
         overflow-x: hidden;
@@ -776,4 +780,13 @@ div #mrm-list .grc h5{
 
 .column{
     margin-bottom: 20px;
+    margin-top: 40px;
+    color: #FFFFFF;
+    font-family: "Oswald", sans-serif;
+}
+
+.ctn{
+    background-color: rgb(0, 9, 88);
+    border-radius: 5px;
+    border: 2px solid rgb(214, 212, 212);
 }
