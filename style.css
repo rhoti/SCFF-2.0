@@ -354,6 +354,7 @@ Hero-Section
     height: 37vh;
     max-width: 100vw;
     color: #000;
+    margin-bottom: 100px;
     } 
     
     section #aboutus-container h1{
@@ -457,6 +458,7 @@ Home hero-section
         height: 35vh;
         background-size: cover;
         background-attachment:unset;
+        margin-bottom: 100px;
     }
 
     div .learn-more-btn{
