@@ -457,7 +457,7 @@ Home hero-section
     .scff-brief-img{
         transform: scale(1.5);
         opacity: 0.9;
-        padding-left: 0%;
+        margin-left: 0%;
         padding-top: 13%;
     }
 
@@ -772,6 +772,11 @@ SCFF Brief Section
         width: 100vw;
         padding:10px 10% 250px 10%;
     }
+
+    div .scff-brief-img{
+        margin-left: 30px;
+      }
+      
     
 }
 
